@@ -20,7 +20,7 @@ A [Notion Worker](https://developers.notion.com/workers/get-started/overview) th
 ### 1. Clone and install
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/notion-google-contacts-worker.git
+git clone https://github.com/simosme/notion-google-contacts-worker.git
 cd notion-google-contacts-worker
 npm install
 ```
